@@ -62,13 +62,6 @@
 **2020/Atual - Sagris / Analista de Sistemas**
 > Desenvolvo as soluções propostas pela empresa e realizo manutenções nos aplicativos/sistemas já existentes.
 
-## Experência Profissional:
-**2019/2020 - Quality Inteligencia / Analista de Sistemas**
-**Desenvolvo as soluções propostas pela empresa e realizo manutenções nos aplicativos/sistemas já existentes.**
-
-
-**2020/Atual - Sagris / Analista de Sistemas**
-**Desenvolvo as soluções propostas pela empresa e realizo manutenções nos aplicativos/sistemas já existentes.**
 
 ## Formação
 **Graduação - Analise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie - Cursando**
