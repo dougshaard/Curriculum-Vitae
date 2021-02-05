@@ -17,7 +17,7 @@
 
 - **NodeJS**
 - **Express**
-- **AdonisJs**
+- **AdonisJS**
 
 #### FrontEnd:
 
@@ -50,9 +50,9 @@
 - **Gosto de ajudar novos programadores.**
 - **Facilidade para trabalhar em grupo.**
 - **Faço algumas bibliotecas para javascript**
-- - https://www.npmjs.com/~shaardth
+-   https://www.npmjs.com/~shaardth
 - **Meu github**
-- - https://github.com/dougshaard
+-   https://github.com/dougshaard
 
 ## Experência Profissional:
 **2019/2020 - Quality Inteligencia / Analista de Sistemas**
@@ -64,4 +64,6 @@
 
 
 ## Formação
-**Graduação - Análise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie - Cursando**
+**Graduação - Cursando**
+- Análise e Desenvolvimento de Sistemas 
+  - Universidade Presbiteriana Mackenzie 
