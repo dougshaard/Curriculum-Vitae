@@ -7,10 +7,10 @@
 ##### E-mail: shaardth@gmail.com
 
 ##### Github: **dougshaard**
+##### Npm: **shaardth**
 
 ##### Inglês: Intermediário 
 ##### Espanhol: Intermediário/Avançado
-
 
 ## Competências
 #### BackEnd:
@@ -64,4 +64,4 @@
 
 
 ## Formação
-**Graduação - Analise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie - Cursando**
+**Graduação - Análise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie - Cursando**
