@@ -8,8 +8,13 @@
 
 ##### Github: **dougshaard**
 
+<<<<<<< HEAD
 ##### Inglês: Intermediário 
 ##### Espanhol: Intermediário/Avançado
+=======
+##### Inglês: intermediário 
+##### Espanhol: Avançado
+>>>>>>> c7a9b3f7b98dbbb1c5c3ed66a4690ad4ab9ca246
 
 ## Competências
 #### BackEnd:
@@ -60,6 +65,14 @@
 
 **2020/Atual - Sagris / Analista de Sistemas**
 > Desenvolvo as soluções propostas pela empresa e realizo manutenções nos aplicativos/sistemas já existentes.
+
+## Experência Profissional:
+**2019/2020 - Quality Inteligencia / Analista de Sistemas**
+**Desenvolvo as soluções propostas pela empresa e realizo manutenções nos aplicativos/sistemas já existentes.**
+
+
+**2020/Atual - Sagris / Analista de Sistemas**
+**Desenvolvo as soluções propostas pela empresa e realizo manutenções nos aplicativos/sistemas já existentes.**
 
 ## Formação
 **Graduação - Analise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie - Cursando**
