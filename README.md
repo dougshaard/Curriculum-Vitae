@@ -23,7 +23,7 @@
 
 - **ReactJS**
 - **HTML5/CSS3**
-- **Sass**
+- **SASS**
 - **Styled Components** 
 - **Material-UI**
 - **Bootstrap**
@@ -50,9 +50,7 @@
 - **Gosto de ajudar novos programadores.**
 - **Facilidade para trabalhar em grupo.**
 - **Faço algumas bibliotecas para javascript**
--   https://www.npmjs.com/~shaardth
-- **Meu github**
--   https://github.com/dougshaard
+      - https://www.npmjs.com/~shaardth
 
 ## Experência Profissional:
 **2019/2020 - Quality Inteligencia / Analista de Sistemas**
