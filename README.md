@@ -10,7 +10,7 @@
 ##### Npm: **shaardth**
 
 ##### Inglês: Intermediário 
-##### Espanhol: Intermediário/Avançado
+##### Espanhol: Intermediário
 
 ## Competências
 
@@ -51,7 +51,7 @@
 - **Web API**
 - **Web Socket**
 - **Sistema de Controle de versão**
-  - **git**
+  - **Git**
   - **Bitbucket**
 
 
@@ -61,7 +61,6 @@
   - **TypeScript**
   - **Es6 ~ Es20**
 - **Python**
-- **R**
 
 ## Informações adicionais
 - **Clean Code.**
