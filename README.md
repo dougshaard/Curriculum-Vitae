@@ -47,12 +47,13 @@
 - **PostgreSQL**
 
 ## Outros:
+- **Design Pattern**
+- **Web API**
+- **Web Socket**
 - **Sistema de Controle de versão**
   - **git**
   - **Bitbucket**
-  - **Design Pattern**
-  - **Web API**
-  - **Web Socket**
+
 
 ## Experiências em outras linguagens:
 
