@@ -13,16 +13,27 @@
 ##### Espanhol: Intermediário/Avançado
 
 ## Competências
+
+#### Metodologias
+- **Ágil**
+- **Scrum**
+- **Kanban**
+  
+#### Ferramentas de Teste
+- **Jest**
+- **Japa**
+
 #### BackEnd:
 
 - **NodeJS**
-- **Express**
+- **ExpressJS**
 - **AdonisJS**
 
 #### FrontEnd:
 
 - **ReactJS**
 - **HTML5/CSS3**
+  - **BEM**
 - **SASS**
 - **Styled Components** 
 - **Material-UI**
@@ -33,14 +44,21 @@
 
 ### Banco de Dados:
 - **MySQL**
+- **PostgreSQL**
 
 ## Outros:
-- **Sistema de Controle de versão (git)**
+- **Sistema de Controle de versão**
+  - **git**
+  - **Bitbucket**
+  - **Design Pattern**
+  - **Web API**
+  - **Web Socket**
 
 ## Experiências em outras linguagens:
 
 - **JavaScript**
-- **TypeScript**
+  - **TypeScript**
+  - **Es6 ~ Es20**
 - **Python**
 - **R**
 
