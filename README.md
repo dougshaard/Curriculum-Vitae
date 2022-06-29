@@ -81,7 +81,8 @@
 - **Airbnb JavaScript Style Guide.**
 - **Gosto de ajudar novos programadores.**
 - **Facilidade para trabalhar em grupo.**
-- **Faço algumas bibliotecas para javascript** - https://www.npmjs.com/~shaardth
+- **Faço algumas bibliotecas para javascript**
+  - https://www.npmjs.com/~shaardth
 
 ## Experência Profissional:
 
@@ -104,6 +105,11 @@
 **2019/Atual**
 
 > Trabalhei em diversos "freelas"
+
+**2021/Atual**
+
+> Consultor Tecnologico - https://www.cheapfoodapp.com.br/
+> Consultor Tecnologico - Xpot and XpotConnect (Ainda em desenvolvimento)
 
 ## Formação
 
