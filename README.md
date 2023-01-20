@@ -14,26 +14,29 @@
 
 ##### Npm: **shaardth**
 
-##### Inglês: Intermediário
+##### Inglês: Avançado
 
-##### Espanhol: Intermediário
+##### Espanhol: Avançado
 
 #### Metodologias
 
 - **Ágil**
 - **Scrum**
 - **Kanban**
+- **MVP**
 
 #### Ferramentas de Teste
 
 - **Jest**
 - **Japa**
+- **Cypress**
 
 #### BackEnd:
 
 - **NodeJS**
 - **ExpressJS**
 - **AdonisJS**
+- **NestJS**
 - **Ruby on Rails**
 
 #### FrontEnd:
@@ -46,6 +49,7 @@
 - **Tailwind CSS**
 - **Styled Components**
 - **Material-UI**
+- **ANTD**
 - **Quasar Dev**
 - **Bootstrap**
 
@@ -55,8 +59,19 @@
 
 ### Banco de Dados:
 
+- _Relacionais_
 - **MySQL**
 - **PostgreSQL**
+
+- _Não Relacionais_
+- **MongoDB**
+- **Firestore**
+
+### Cloud:
+
+- **AWS**
+- **Heroku**
+- **Vercel**
 
 ## Outros:
 
@@ -101,6 +116,10 @@
 **2021/2021 2 meses - Speedio / Analista de Sistemas**
 
 > Atualizar o sistema do Vue2 para Vue3 - Assim como todos os frameworks usados, realizar manutenções no sistema principal, também tive que dar suporte para bancos de dados NoSQL e Trabalhei com Ruby on Rails no back-end .
+
+**2022/2023 6 meses - Nobuzz / Analista de Sistemas**
+
+> Desenvolver sistemas do zero, da suporte a sistemas, atualizar sistemas legados, realizar integrações com diversos sistemas externos.
 
 **2019/Atual**
 
